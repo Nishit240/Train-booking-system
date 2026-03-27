@@ -1,4 +1,4 @@
-# --- Train Booking System ---
+<h1 align="center"> --- Train Booking System --- </h1>
 <h2> 1. Book Ticket </h2>
 <img width="771" height="351" alt="Screenshot 2025-09-13 123347" src="https://github.com/user-attachments/assets/66f2e964-28a0-4d00-aebd-d0d47fd704ed" />
 <h2> 2. Cancel Ticket </h2>
